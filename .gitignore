@@ -1,0 +1,10 @@
+.env
+.vscode/
+node_modules/
+echo "node_modules/" >> .gitignore
+echo ".vscode/" >> .gitignore
+echo "AppData/" >> .gitignore
+echo "NTUSER.DAT*" >> .gitignore
+echo "Desktop/" >> .gitignore
+echo "Downloads/" >> .gitignore
+echo "Documents/" >> .gitignore
