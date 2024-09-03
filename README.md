@@ -1,7 +1,5 @@
-
 # StudyNotion - EdTech Platform
 :rocket: [Link to website][https://studynotion-frontend.vercel.app/]
-
 
 ![Main Page](images/mainpage.png)
 StudyNotion is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
@@ -18,7 +16,6 @@ StudyNotion is a fully functional EdTech platform that enables users to create, 
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-
 
 ## Introduction
 
@@ -108,7 +105,7 @@ For detailed API documentation and endpoints, refer to the [API Documentation](/
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/username/repo.git`
+1. Clone the repository: `git clone https://github.com/Surajgupta000/Study_Notion-Website.git`
 2. Navigate to the project directory: `cd StudyNotion`
 3. Install dependencies: `npm install`
 
@@ -116,10 +113,7 @@ For detailed API documentation and endpoints, refer to the [API Documentation](/
 
 1. Set up a MongoDB database and obtain the connection URL.
 2. Create a `.env` file in the root directory with the following environment variables:
-   ```
-   MONGODB_URI=<your-mongodb-connection-url>
-   JWT_SECRET=<your-jwt-secret-key>
-   ```
+
 
 ## Usage
 
@@ -127,7 +121,4 @@ For detailed API documentation and endpoints, refer to the [API Documentation](/
 2. Open a new terminal and navigate to the `client` directory: `cd client`
 3. Start the React development server: `npm start`
 
-Access the application in your browser at `http://localhost:3000`.
-
-
-
+Access the application in your browser at `http://localhost:3000`
